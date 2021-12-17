@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Felipe Pereira
 
-- Estudando Javascript
+- Estudando Python
 - Contate-se no email: feliperaxz@gmail.com
 <div align="center">
   <a href="https://github.com/felipepx">
