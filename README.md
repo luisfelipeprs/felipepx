@@ -14,7 +14,7 @@
   <img align="center" alt="lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="right" alt="lipe-pic" height="150" style="border-radius:50px;" 
-   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmyDoZwuw33AaAfEaE8pcu4PGDTODCoasfhw&usqp=CAU">
+   src=https://giffiles.alphacoders.com/150/15011.gif">
 </div>
   
 ##
