@@ -1,14 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&color=%23909090&size=30&center=true&vCenter=true&height=150&lines=Hello+%F0%9F%98%89+I%27m+Felipe">
-</div>
-<div align="left">
-- Estudando Python <br>
-- Contate-se no email: feliperaxz@gmail.com
-  <br><br>
-  
-</div>
-  <div align="center">
+
   <a href="https://github.com/felipepx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipepx&theme=radical&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepx&layout=compact&langs_count=7&theme=radical&"/>
