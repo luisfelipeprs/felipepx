@@ -16,7 +16,7 @@
 #### 📈 Statistics & Language
 <a src="https://github.com/felipepx">
  <img src="https://github-readme-stats.vercel.app/api?username=felipepx&theme=radical&show_icons=true&include_all_commits=true&count_private=true" width=49.2% />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepx&layout=compact&complangs_count=7&theme=radical&" width=50% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepx&layout=compact&complangs_count=7&theme=radical&hide=css" width=50% />
 </a>
 
  <br><br>
