@@ -1,4 +1,4 @@
-# Hy! Welcome to my GitHub!!! 😄👋
+# Hi! Welcome to my GitHub!!! 😄👋
  <div>
  
 - My name is Felipe. I have been studying programming since 2020!
