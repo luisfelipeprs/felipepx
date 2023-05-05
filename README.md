@@ -2,7 +2,7 @@
  <div>
  
 - My name is Felipe. I have been studying programming since 2020!
-- I develop in Spring and Angular.
+- I develop in ***Spring*** and ***Angular***.
 - Email: felipepereiracript@gmail.com
 - Linkedin: https://www.linkedin.com/in/felipepxr/
 - My hobby is development, and I have a keen interest in cybersecurity, dedicating myself to studying the technologies present in the market.
